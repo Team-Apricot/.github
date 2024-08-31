@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <tr>
-        <td align="center">Owner</td>
+        <td align="center">Leader</td>
         <td align="center">Member</td>
         <td align="center">Member</td>
         <td align="center">Member</td>
