@@ -26,7 +26,7 @@
         <td align="center"><a href="https://github.com/IToriginal">헌욱</td> 
         <td align="center"><a href="https://github.com/hwangheejung">희정</td>
         <td align="center"><a href="https://github.com/ssoulistic">서호</td>
-        <td align="center"><a href="https://github.com/jooh9992">석현</td>  
+        <td align="center"><a href="https://github.com/smuhsh">석현</td>  
       </tr>
     </tr>
   </tbody>
