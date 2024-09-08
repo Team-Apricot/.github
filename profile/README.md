@@ -5,6 +5,9 @@
 # ✨ 프로젝트 소개
 **살구**는 청년들이 살기 좋은 지역구 추천 서비스 입니다.
 
+# 🚀 CI/CD
+<img width="661" alt="image" src="https://github.com/user-attachments/assets/baf132e8-ea92-4dc5-833a-3587132349e5">
+
 # 👩🏻‍👧🏻‍👦🏻 팀원
 
 <table>
